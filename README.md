@@ -29,4 +29,6 @@ L'objectif est de comprendre comment les drones utilisent différents capteurs p
 https://github.com/user-attachments/assets/a26709fe-e914-464a-9054-39e26ce4baff
 
 <img width="499" height="500" alt="logo-removebg-preview" src="https://github.com/user-attachments/assets/9f95d02f-5edf-4cdd-9dc8-ccaf5d4944c2" />
+
+
 ![IMG_1578](https://github.com/user-attachments/assets/384429db-80a6-4945-a623-25cd3150f8b6)
