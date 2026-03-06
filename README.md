@@ -42,3 +42,4 @@ https://github.com/user-attachments/assets/a26709fe-e914-464a-9054-39e26ce4baff
 
 <img width="1919" height="922" alt="projet drone" src="https://github.com/user-attachments/assets/6f694e6f-83cf-4a2a-a77d-74d16331d03e" />
 
+<img width="1088" height="846" alt="drone schema" src="https://github.com/user-attachments/assets/4465918d-9e5f-4830-8518-d21284b4bde4" />
