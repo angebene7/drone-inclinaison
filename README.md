@@ -32,3 +32,7 @@ https://github.com/user-attachments/assets/a26709fe-e914-464a-9054-39e26ce4baff
 
 
 ![IMG_1578](https://github.com/user-attachments/assets/384429db-80a6-4945-a623-25cd3150f8b6)
+
+![IMG_1579](https://github.com/user-attachments/assets/327b7089-c5de-4214-96bf-31dfadf70b31)
+
+<img width="1919" height="922" alt="projet drone" src="https://github.com/user-attachments/assets/6f694e6f-83cf-4a2a-a77d-74d16331d03e" />
