@@ -23,6 +23,11 @@ L'objectif est de comprendre comment les drones utilisent différents capteurs p
 - Systèmes embarqués
 - Contrôle en temps réel
 
+
+https://www.tinkercad.com/things/1SDmYPxjFvA-drone-
+
+
+
 ![645697996_4525736464418319_2437957903438956618_n](https://github.com/user-attachments/assets/eae355b8-b206-48c6-947c-f4686af0942a)
 
 
@@ -37,4 +42,3 @@ https://github.com/user-attachments/assets/a26709fe-e914-464a-9054-39e26ce4baff
 
 <img width="1919" height="922" alt="projet drone" src="https://github.com/user-attachments/assets/6f694e6f-83cf-4a2a-a77d-74d16331d03e" />
 
-https://www.tinkercad.com/things/1SDmYPxjFvA-drone-
