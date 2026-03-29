@@ -23,6 +23,62 @@ L'objectif est de comprendre comment les drones utilisent différents capteurs p
 - Systèmes embarqués
 - Contrôle en temps réel
 
+voici le codage du systeme 
+
+```cpp
+
+const int capteurPin7 = 7; 
+const int capteurPin6 = 6; 
+const int capteurPin5 = 5; 
+const int capteurPin4 = 4; 
+
+const int ledPin8 = 8;    
+const int ledPin9 = 9;    
+const int ledPin10 = 10;  
+const int ledPin11 = 11;  
+
+const int buzzerPin = 13; 
+
+void setup() {
+  Serial.begin(9600);
+
+ 
+  pinMode(capteurPin7, INPUT);
+  pinMode(capteurPin6, INPUT);
+  pinMode(capteurPin5, INPUT);
+  pinMode(capteurPin4, INPUT);
+
+
+  pinMode(ledPin8, OUTPUT);
+  pinMode(ledPin9, OUTPUT);
+  pinMode(ledPin10, OUTPUT);
+  pinMode(ledPin11, OUTPUT);
+  pinMode(buzzerPin, OUTPUT);
+
+  Serial.println("Initialisation complete.");
+}
+
+void loop() {
+
+  int etatCapteur7 = digitalRead(capteurPin7);
+  int etatCapteur6 = digitalRead(capteurPin6);
+  int etatCapteur5 = digitalRead(capteurPin5);
+  int etatCapteur4 = digitalRead(capteurPin4);
+
+  
+  digitalWrite(ledPin8, (etatCapteur7 == LOW) ? HIGH : LOW);
+  digitalWrite(ledPin9, (etatCapteur6 == LOW) ? HIGH : LOW);
+  digitalWrite(ledPin10, (etatCapteur5 == LOW) ? HIGH : LOW);
+  digitalWrite(ledPin11, (etatCapteur4 == LOW) ? HIGH : LOW);
+
+  
+  if (etatCapteur7 == LOW || etatCapteur6 == LOW || etatCapteur5 == LOW || etatCapteur4 == LOW) {
+    digitalWrite(buzzerPin, HIGH);
+  } else {
+    digitalWrite(buzzerPin, LOW);
+  }
+}
+```
 
 https://www.tinkercad.com/things/1SDmYPxjFvA-drone-
 
